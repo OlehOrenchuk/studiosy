@@ -40,3 +40,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # studiosy
 ![Знімок екрана 2024-05-01 о 19 17 21](https://github.com/OlehOrenchuk/studiosy/assets/55660061/799da57f-cbc7-46b1-8f1b-bb8c82f3bc51)
+![Знімок екрана 2024-05-01 о 19 17 46](https://github.com/OlehOrenchuk/studiosy/assets/55660061/7f10ba11-6995-4b14-ad3d-54b8d25aee55)
+![Знімок екрана 2024-05-01 о 19 17 32](https://github.com/OlehOrenchuk/studiosy/assets/55660061/0d9a8cf8-ddd9-4260-a470-d6ce8b27045f)
+![Знімок екрана 2024-05-01 о 19 19 04](https://github.com/OlehOrenchuk/studiosy/assets/55660061/e26efdf9-e781-4757-8842-6c57d11439ce)
+![Знімок екрана 2024-05-01 о 19 19 32](https://github.com/OlehOrenchuk/studiosy/assets/55660061/daae4d21-b616-4b92-a2e9-2bea122d2305)
+![Знімок екрана 2024-05-01 о 19 18 05](https://github.com/OlehOrenchuk/studiosy/assets/55660061/2851ebb0-eee2-49f1-9b84-620140db9c3f)
+![Знімок екрана 2024-05-01 о 19 20 22](https://github.com/OlehOrenchuk/studiosy/assets/55660061/3867de40-edb9-4b57-baee-d8f0d20e78e7)
+![Знімок екрана 2024-05-01 о 19 16 09](https://github.com/OlehOrenchuk/studiosy/assets/55660061/d82dd3a9-f85f-4337-9051-ff4c73657621)
+![Знімок екрана 2024-05-01 о 19 16 53](https://github.com/OlehOrenchuk/studiosy/assets/55660061/1533752c-6bb5-415f-a1ad-cf82fc59e92b)
+![Знімок екрана 2024-05-01 о 19 21 02](https://github.com/OlehOrenchuk/studiosy/assets/55660061/06011614-2e6a-4819-a047-75f9f2bd3aa8)
+![Знімок екрана 2024-05-01 о 19 21 44](https://github.com/OlehOrenchuk/studiosy/assets/55660061/87857bbb-f5aa-497f-a7c3-94f95cbdf9f0)
+![Знімок екрана 2024-05-01 о 19 27 23](https://github.com/OlehOrenchuk/studiosy/assets/55660061/0a491e0e-3326-4fd5-ae34-38fe0496d3fa)
