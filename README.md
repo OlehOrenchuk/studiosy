@@ -39,3 +39,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # studiosy
+![Знімок екрана 2024-05-01 о 19 17 21](https://github.com/OlehOrenchuk/studiosy/assets/55660061/799da57f-cbc7-46b1-8f1b-bb8c82f3bc51)
